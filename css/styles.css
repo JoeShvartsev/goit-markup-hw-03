@@ -299,6 +299,7 @@ button {
 
 /* portfolio styles */
 .portfolio {
+    padding-top:96px;
     padding-bottom: 120px;
 }
 .button-list, .portfolio-list {
@@ -310,7 +311,6 @@ button {
 .button-list {
     display: flex;
     justify-content: center;
-    margin-top: 96px ;
     margin-bottom: 72px;
 }
 .radiobutton-list:not(:last-child) {
